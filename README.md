@@ -24,3 +24,5 @@ UDP Relay Chat
 ### Client
 
 1. Run the client using the command `./client --server-ip IP Here --server-port Port Here`.
+
+![Screenshot of my project](screenshot.png)

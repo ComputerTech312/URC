@@ -19,8 +19,8 @@ UDP Relay Chat
 
 ### Server
 
-1. Run the server using the command `./server`.
+1. Run the server using the command `./server --server-ip IP Here --server-port Port Here`.
 
 ### Client
 
-1. Run the client using the command `./client`.
+1. Run the client using the command `./client --server-ip IP Here --server-port Port Here`.
